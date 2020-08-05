@@ -1,6 +1,6 @@
 ### Hi there, I'm Kyle - aka [clydeventure][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Plant-lover, Developer, and Teacher!
 - 🔭 I’m currently working with [Plantera][plantera]!
 - 🌱 I’m currently learning full stack development with Vue.js and Django
 - 🥅 2020 Goals: Learn 3js and OpenCV
