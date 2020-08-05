@@ -2,7 +2,7 @@
 
 ## I'm a Teacher, Developer, and Craft Beer Lover!
 - 🔭 I’m currently working with [<img src="https://github.com/clydeventure/website/blob/master/img/logo/planteraOrange.png" height="12px">][plantera]!
-- 🌱 I’m currently learning full stack development with Vue.js and Django
+- 🌱 I’m learning full stack development with Vue.js and Django
 - 🥅 2020 Goals: Learn 3js and OpenCV
 - ⚡ Fun fact: I can make a mean cup of hot chocolate
 
