@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Kyle - aka <a href="https://clydeventure.com">Clydeventure</a> 👋 </h3>
----
+
 <br />
 
 ## I'm a Teacher, Developer, and Craft Beer Lover!
@@ -39,8 +39,6 @@
 
 <img align="left" alt="Kyle's Github Stats" src="https://github-readme-stats.vercel.app/api?username=clydeventure&show_icons=true&hide_border=true&hide=prs,contribs" />
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clydeventure&layout=compact)](https://github.com/clydeventure/github-readme-stats)
 
 [website]: https://clydeventure.com
 [youtube]: https://www.youtube.com/channel/UCxZi6Y4eJxhGyItIjIZ687g?view_as=subscriber
