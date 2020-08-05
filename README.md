@@ -8,13 +8,13 @@
 - 🥅 2020 Goals: Learn 3js and OpenCV
 - ⚡ Fun fact: I make a mean cup of hot chocolate!
 
-<br />
-
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
 
 <br />
 
@@ -38,9 +38,10 @@
 
 <br />
 
-
+---
 
 <img align="left" alt="Kyle's Github Stats" src="https://github-readme-stats.vercel.app/api?username=clydeventure&show_icons=true&hide_border=true&hide=prs,contribs" />
+
 
 
 [website]: https://clydeventure.com
