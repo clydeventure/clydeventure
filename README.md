@@ -4,7 +4,7 @@
 - 🔭 I’m currently working with [Plantera][plantera]!
 - 🌱 I’m currently learning full stack development with Vue.js and Django
 - 🥅 2020 Goals: Learn 3js and OpenCV
-- ⚡ Fun fact: I am bilingual (Kor/Eng) and I love bouldering
+- ⚡ Fun fact: I can make a mean cup of hot chocolate
 
 ### Connect with me:
 
